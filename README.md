@@ -1,0 +1,1 @@
+I used Netflix Movies and TV Shows dataset for Analyzing and cleaning with pandas and numpy.It Covers data loading, handling missing values, renaming columns, type conversion, and exploratory statistics.
